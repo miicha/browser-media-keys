@@ -3,15 +3,16 @@
   "title": "Media Keys",
   "description": "Lets you control many popular website media players using the media keys on your keyboard.",
   "author": {
-    "name": "Carlin Scott",
-    "email": "carlin.q.scott@gmail.com"
+    "name": "Michael Pfitzner",
+    "email": "michael@g.de"
   },
   "contributors": [
+    "Carlin Scott <carlin.q.scott@gmail.com>",
     "David Beitey <david@davidjb.com>"
   ],
-  "id": "jid1-4GP7z3tkUd3Tzg@jetpack",
+  "id": "jid1-4GP7z3tkUd3Tzg7@jetpack",
   "license": "MPL-2.0",
-  "version": "0.7.6",
+  "version": "0.7.10",
   "icon": "icon.png",
   "preferences": [
     {
